@@ -35,3 +35,8 @@
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/BethanyPieShop.pdb
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/BethanyPieShop.genruntimeconfig.cache
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/BethanyPieShop.csproj.CopyComplete
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Pie/List.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/libman.json
