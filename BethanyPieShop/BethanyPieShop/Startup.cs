@@ -22,13 +22,18 @@ namespace BethanyPieShop
             Configuration = configuration;
         }
 
-        
+        /*
+         Commands to run for dotnet ef
+        - dotnet ef migrations add *nameOfMigration*
+        - dotnet ef database update
+         */
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
             services.AddDbContext<AppDbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            options.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<IPieRepository, PieRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
