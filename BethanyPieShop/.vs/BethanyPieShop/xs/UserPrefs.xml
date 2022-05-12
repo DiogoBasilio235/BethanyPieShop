@@ -1,23 +1,25 @@
 ﻿<Properties StartupConfiguration="{584A270A-D4F8-4EE6-861F-15E3AC3AE001}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Migrations/20220511161240_notesAddedOnPie.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Views/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="BethanyPieShop/Startup.cs" Line="26" Column="39" />
-      <File FileName="BethanyPieShop/appsettings.json" Line="14" Column="75" />
-      <File FileName="BethanyPieShop/Models/Pie.cs" Line="13" Column="54" />
-      <File FileName="BethanyPieShop/Migrations/20220511155551_seedDataAdded.cs" Line="1" Column="1" />
-      <File FileName="BethanyPieShop/Migrations/20220511161240_notesAddedOnPie.Designer.cs" Line="1" Column="1" />
-      <File FileName="BethanyPieShop/Migrations/20220511161240_notesAddedOnPie.cs" Line="1" Column="1" />
+      <File FileName="BethanyPieShop/Startup.cs" Line="51" Column="1" />
+      <File FileName="BethanyPieShop/Controllers/PieController.cs" Line="38" Column="30" />
+      <File FileName="BethanyPieShop/Views/Pie/Details.cshtml" Line="16" Column="7" />
+      <File FileName="BethanyPieShop/Views/_ViewImports.cshtml" Line="4" Column="53" />
+      <File FileName="BethanyPieShop/Views/Pie/List.cshtml" Line="14" Column="91" />
+      <File FileName="BethanyPieShop/Views/Shared/_Layout.cshtml" Line="31" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanyPieShop" expanded="True">
             <Node name="BethanyPieShop" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Migrations" expanded="True">
-                <Node name="20220511161240_notesAddedOnPie.cs" expanded="True" selected="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Pie" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
-              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>
