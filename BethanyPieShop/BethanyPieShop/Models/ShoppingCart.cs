@@ -106,9 +106,18 @@ namespace BethanyPieShop.Models
 
         public decimal GetShoppingCartTotal()
         {
+            // Code is different from the original because Sum() does not work properly with NetCore 3.1.
+            // If you need thi kind of detail, use float instead.
             var total = _appDbContext.ShoppingCartItems.Where(c => c.ShoppingCartId == ShoppingCartId)
-                .Select(c => c.Pie.Price * c.Amount).Sum();
-            return total;
+                .Select(c => c.Pie.Price * c.Amount);
+
+            decimal cartTotal = 0;
+            foreach(var item in total)
+            {
+                cartTotal += item;
+            }
+
+            return cartTotal;
         }
     }
 }
