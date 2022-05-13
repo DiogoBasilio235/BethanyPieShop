@@ -1,12 +1,7 @@
 ﻿<Properties StartupConfiguration="{584A270A-D4F8-4EE6-861F-15E3AC3AE001}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Views/Shared/_Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Models/ShoppingCart.cs">
     <Files>
-      <File FileName="BethanyPieShop/Startup.cs" Line="51" Column="1" />
-      <File FileName="BethanyPieShop/Controllers/PieController.cs" Line="38" Column="30" />
-      <File FileName="BethanyPieShop/Views/Pie/Details.cshtml" Line="16" Column="7" />
-      <File FileName="BethanyPieShop/Views/_ViewImports.cshtml" Line="4" Column="53" />
-      <File FileName="BethanyPieShop/Views/Pie/List.cshtml" Line="14" Column="91" />
-      <File FileName="BethanyPieShop/Views/Shared/_Layout.cshtml" Line="31" Column="11" />
+      <File FileName="BethanyPieShop/Models/ShoppingCart.cs" Line="109" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,11 +9,15 @@
           <Node name="BethanyPieShop" expanded="True">
             <Node name="BethanyPieShop" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ShoppingCart.cs" selected="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Pie" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="_Layout.cshtml" selected="True" />
-                </Node>
+                <Node name="Shared" expanded="True" />
+                <Node name="ShoppingCart" expanded="True" />
               </Node>
             </Node>
           </Node>

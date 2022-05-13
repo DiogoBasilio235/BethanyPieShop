@@ -38,6 +38,11 @@ namespace BethanyPieShop
             services.AddScoped<IPieRepository, PieRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddControllersWithViews();
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+
+            services.AddHttpContextAccessor();
+            services.AddSession();
+            services.AddControllersWithViews();
             
         }
 
@@ -51,8 +56,11 @@ namespace BethanyPieShop
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            //UseSessionb always before UseRouting
+            app.UseSession();
 
             app.UseRouting();
+            
 
             app.UseEndpoints(endpoints =>
             {

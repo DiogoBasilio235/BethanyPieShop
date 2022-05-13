@@ -14,6 +14,8 @@
     <None Remove="Microsoft.EntityFrameworkCore.SqlServer" />
     <None Remove="Microsoft.EntityFrameworkCore.Tools" />
     <None Remove="NuGet.PackageManagement" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\ShoppingCart\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -23,6 +25,8 @@
     <Folder Include="ViewModels\" />
     <Folder Include="Views\Shared\" />
     <Folder Include="wwwroot\content\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\ShoppingCart\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\content\" />
