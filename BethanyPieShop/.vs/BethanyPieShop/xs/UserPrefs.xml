@@ -1,23 +1,26 @@
 ﻿<Properties StartupConfiguration="{584A270A-D4F8-4EE6-861F-15E3AC3AE001}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Controllers/ContactController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BethanyPieShop/Migrations/AppDbContextModelSnapshot.cs">
     <Files>
-      <File FileName="BethanyPieShop/Views/Contact/Index.cshtml" Line="6" Column="60" />
-      <File FileName="BethanyPieShop/Views/Shared/_Layout.cshtml" Line="28" Column="70" />
-      <File FileName="BethanyPieShop/TagHelpers/EmailTagHelper.cs" Line="1" Column="1" />
-      <File FileName="BethanyPieShop/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="BethanyPieShop/Controllers/ContactController.cs" Line="7" Column="1" />
+      <File FileName="BethanyPieShop/Controllers/OrderController.cs" Line="18" Column="38" />
+      <File FileName="BethanyPieShop/Views/Order/Checkout.cshtml" Line="89" Column="11" />
+      <File FileName="BethanyPieShop/Views/ShoppingCart/Index.cshtml" Line="41" Column="1" />
+      <File FileName="BethanyPieShop/Migrations/20220513164601_OrdersandOrderDetails.cs" Line="1" Column="1" />
+      <File FileName="BethanyPieShop/Migrations/20220513091245_ShoppingCartAdded.cs" Line="1" Column="1" />
+      <File FileName="BethanyPieShop/Migrations/20220511161240_notesAddedOnPie.cs" Line="1" Column="1" />
+      <File FileName="BethanyPieShop/Migrations/20220511155551_seedDataAdded.cs" Line="1" Column="1" />
+      <File FileName="BethanyPieShop/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BethanyPieShop" expanded="True">
             <Node name="BethanyPieShop" expanded="True">
-              <Node name="Components" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="ContactController.cs" selected="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="AppDbContextModelSnapshot.cs" selected="True" />
               </Node>
               <Node name="Views" expanded="True">
-                <Node name="Contact" expanded="True" />
+                <Node name="Order" expanded="True" />
+                <Node name="ShoppingCart" expanded="True" />
               </Node>
             </Node>
           </Node>

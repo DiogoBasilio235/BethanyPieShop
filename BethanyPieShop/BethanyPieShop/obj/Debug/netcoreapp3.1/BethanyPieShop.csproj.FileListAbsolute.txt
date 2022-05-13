@@ -130,3 +130,4 @@
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/ShoppingCartSummary/Default.cshtml.g.cs
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Components/CategoryMenu/Default.cshtml.g.cs
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Index.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Order/Checkout.cshtml.g.cs
