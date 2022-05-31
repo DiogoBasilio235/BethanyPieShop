@@ -132,3 +132,15 @@
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Index.cshtml.g.cs
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Order/Checkout.cshtml.g.cs
 /Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/Razor/Views/Order/CheckoutComplete.cshtml.g.cs
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/BethanyPieShop.StaticWebAssets.xml
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Identity.UI.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Core.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Identity.Stores.dll
+/Users/diogobasilio/Projects/ASP.NET_Core_MVC/BethanyPieShop/BethanyPieShop/obj/Debug/netcoreapp3.1/BethanyPieShop.MvcApplicationPartsAssemblyInfo.cs
