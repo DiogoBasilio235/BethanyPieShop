@@ -23,6 +23,7 @@
     <None Remove="Views\Contact\" />
     <None Remove="TagHelpers\" />
     <None Remove="Views\Order\" />
+    <None Remove="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -41,6 +42,7 @@
     <Folder Include="Views\Contact\" />
     <Folder Include="TagHelpers\" />
     <Folder Include="Views\Order\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <Content Remove="wwwroot\content\" />

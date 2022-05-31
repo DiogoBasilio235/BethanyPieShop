@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BethanyPieShop.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20220513164601_OrdersandOrderDetails")]
-    partial class OrdersandOrderDetails
+    [Migration("20220531133459_Reset")]
+    partial class Reset
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

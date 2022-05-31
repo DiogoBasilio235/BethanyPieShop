@@ -1,13 +1,19 @@
-﻿@model Order
+﻿
+
+@model Order
 
 <form asp-action="Checkout" method="post" class="form-horizontal" role="form">
     <h4>You are just one step away from your delicious pies.</h4>
+
+<!-- the asp-validation-summary will listen in the whole page for submition errors-->
+    <div asp-validation-summary="All" class="text-danger"></div>
 
     <div class="form-group">
         <label asp-for="LastName" class="col-md-2 control-label"></label>
         <div class="col-md-5">
             <input asp-for="LastName" class="form-control" />
         </div>
+        <span asp-validation-for="LastName" class="text-danger"></span>
     </div>
 
     <div class="form-group">
